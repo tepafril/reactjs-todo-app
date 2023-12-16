@@ -1,0 +1,10 @@
+rm -rf /build
+npm run build
+cp -r build/* ./
+git add .
+git stash
+git checkout gh-pages
+git stash apply
+git commit -m "deploy"
+git push
+git checkout main
