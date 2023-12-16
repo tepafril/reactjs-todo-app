@@ -16,6 +16,7 @@ https://tepafril.github.io/reactjs-todo-app/
 1. Mark the task as complete or pending
 1. Update the task
 1. Remove the task
+1. LOCAL STORAGE SUPPORTED
 
 ## Available Scripts
 
