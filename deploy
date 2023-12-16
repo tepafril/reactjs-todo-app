@@ -9,6 +9,7 @@ git stash
 git checkout gh-pages
 rm -rf *
 git stash apply
+git add .
 git commit -m "deploy"
 git push --force
 git checkout main
