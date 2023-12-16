@@ -7,6 +7,7 @@ cp -r build/* ./
 git add .
 git stash
 git checkout gh-pages
+git reset HEAD~
 rm -rf *
 git stash apply
 git add .
