@@ -1,3 +1,6 @@
+git add .
+git commit -m "Commiting before deploy"
+git push
 rm -rf /build
 npm run build
 cp -r build/* ./

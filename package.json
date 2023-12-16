@@ -23,6 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "./reactjs-todo-app/",
   "eslintConfig": {
     "extends": [
       "react-app",
