@@ -7,10 +7,9 @@ cp -r build/* ./
 git add .
 git stash
 git checkout gh-pages
-git reset HEAD^
-rm -rf *
+rm -rf !(node_modules)
 git stash apply
-git add .
+git add -u .
 git commit -m "deploy"
 git push --force
 git checkout main
