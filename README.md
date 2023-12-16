@@ -12,6 +12,7 @@ It isn't bad experience trying ReactJS. This is the youtube link to follow the t
 1. Mark the task as complete or pending
 1. Update the task
 1. Remove the task
+1. LOCAL STORAGE SUPPORTED
 
 ## Available Scripts
 
