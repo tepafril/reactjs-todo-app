@@ -8,6 +8,11 @@ It isn't bad experience trying ReactJS. This is the youtube link to follow the t
 
 ## Available Features
 
+1. Add todo task
+1. Mark the task as complete or pending
+1. Update the task
+1. Remove the task
+
 ## Available Scripts
 
 In the project directory, you can run:
