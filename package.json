@@ -25,6 +25,7 @@
     "deploy": "rm -rf build && npm run build && git push origin :gh-pages && git subtree push --prefix build origin gh-pages",
     "deploy-init": "git push origin && git subtree push --prefix build origin gh-pages"
   },
+  "homepage": "./",
   "eslintConfig": {
     "extends": [
       "react-app",
